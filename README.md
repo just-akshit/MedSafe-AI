@@ -1,4 +1,4 @@
-# 🏥 MedSafe AI v2.0
+# 🏥 MedSafe AI 
 
 **MedSafe AI** is an advanced machine learning-powered medical safety assistant with a modern, interactive dashboard.
 
@@ -60,10 +60,4 @@ streamlit run app.py
 
 [MedSafe AI on Streamlit Cloud](https://just-akshit-medsafe-ai-app-7t4q6z.streamlit.app/)
 
-## ⚠️ Disclaimer
 
-This is an AI-assisted tool for **educational purposes only**. Always consult a qualified healthcare professional for medical advice.
-
-## 📄 License
-
-MIT License — © 2026 Akshit
